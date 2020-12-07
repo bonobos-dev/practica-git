@@ -6,3 +6,11 @@ Grillo
 Rome
 "hola"
 un cambio
+!!
+->
+=>
+<=
+>=
+===
+!=
+==
